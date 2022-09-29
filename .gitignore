@@ -19,7 +19,6 @@ __pycache__
 .env_file
 pipfile
 pipfile.lock
-.env_file
 aws2-auth-patch.yml
 
 # Coverage reports
